@@ -1,5 +1,14 @@
 # Análise Estatística de Dados Seminais
 
+# Análise Estatística de Dados Seminais
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![R](https://img.shields.io/badge/R-Program-blue)
+![Licença](https://img.shields.io/badge/licença-confidencial-red)
+![Autor](https://img.shields.io/badge/autor-Francisco%20Noris-blueviolet)
+![Data](https://img.shields.io/badge/data-julho%202025-brightgreen)
+
+
 Este repositório reúne os scripts em **R** utilizados para análise estatística de dados seminais, com foco na comparação entre diferentes tratamentos experimentais.
 
 **Importante**: Os dados brutos, gráficos e arquivos de saída (.xlsx, .png, .txt) são **confidenciais** e não estão disponíveis neste repositório. Esses arquivos foram excluídos intencionalmente via `.gitignore`.
