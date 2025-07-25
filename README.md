@@ -19,7 +19,7 @@ Analise-estatistica-de-dados-seminais/
 ├── analise_dados_seminais.Rmd # Arquivo principal com o código da análise
 ├── .gitignore # Arquivos e pastas ignorados no versionamento
 ├── dados/ # (Omitido) Dados de entrada
-├── plots/ # (Omitido) Gráficos gerados
+├── gráficos/ # (Omitido) Gráficos gerados
 ├── resultados/ # (Omitido) Saídas de testes estatísticos
 
 ##  Técnicas Utilizadas
